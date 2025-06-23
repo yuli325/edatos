@@ -1,0 +1,15 @@
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\bin\Debug\net9.0\semana4july.exe
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\bin\Debug\net9.0\semana4july.deps.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\bin\Debug\net9.0\semana4july.runtimeconfig.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\bin\Debug\net9.0\semana4july.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\bin\Debug\net9.0\semana4july.pdb
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\obj\Debug\net9.0\semana4july.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\obj\Debug\net9.0\semana4july.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\obj\Debug\net9.0\semana4july.AssemblyInfo.cs
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\obj\Debug\net9.0\semana4july.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\obj\Debug\net9.0\semana4july.sourcelink.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\obj\Debug\net9.0\semana4july.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\obj\Debug\net9.0\refint\semana4july.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\obj\Debug\net9.0\semana4july.pdb
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\obj\Debug\net9.0\semana4july.genruntimeconfig.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana4july\obj\Debug\net9.0\ref\semana4july.dll
