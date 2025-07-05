@@ -1,0 +1,15 @@
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\bin\Debug\net9.0\semana6.exe
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\bin\Debug\net9.0\semana6.deps.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\bin\Debug\net9.0\semana6.runtimeconfig.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\bin\Debug\net9.0\semana6.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\bin\Debug\net9.0\semana6.pdb
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\obj\Debug\net9.0\semana6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\obj\Debug\net9.0\semana6.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\obj\Debug\net9.0\semana6.AssemblyInfo.cs
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\obj\Debug\net9.0\semana6.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\obj\Debug\net9.0\semana6.sourcelink.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\obj\Debug\net9.0\semana6.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\obj\Debug\net9.0\refint\semana6.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\obj\Debug\net9.0\semana6.pdb
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\obj\Debug\net9.0\semana6.genruntimeconfig.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\semana6\obj\Debug\net9.0\ref\semana6.dll
