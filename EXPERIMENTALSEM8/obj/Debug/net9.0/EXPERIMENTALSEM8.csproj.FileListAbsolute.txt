@@ -1,0 +1,15 @@
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\bin\Debug\net9.0\EXPERIMENTALSEM8.exe
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\bin\Debug\net9.0\EXPERIMENTALSEM8.deps.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\bin\Debug\net9.0\EXPERIMENTALSEM8.runtimeconfig.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\bin\Debug\net9.0\EXPERIMENTALSEM8.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\bin\Debug\net9.0\EXPERIMENTALSEM8.pdb
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\obj\Debug\net9.0\EXPERIMENTALSEM8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\obj\Debug\net9.0\EXPERIMENTALSEM8.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\obj\Debug\net9.0\EXPERIMENTALSEM8.AssemblyInfo.cs
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\obj\Debug\net9.0\EXPERIMENTALSEM8.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\obj\Debug\net9.0\EXPERIMENTALSEM8.sourcelink.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\obj\Debug\net9.0\EXPERIMENTALSEM8.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\obj\Debug\net9.0\refint\EXPERIMENTALSEM8.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\obj\Debug\net9.0\EXPERIMENTALSEM8.pdb
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\obj\Debug\net9.0\EXPERIMENTALSEM8.genruntimeconfig.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\JULY\EXPERIMENTALSEM8\obj\Debug\net9.0\ref\EXPERIMENTALSEM8.dll
