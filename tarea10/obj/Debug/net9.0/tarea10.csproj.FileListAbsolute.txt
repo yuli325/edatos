@@ -1,0 +1,15 @@
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\bin\Debug\net9.0\tarea10.exe
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\bin\Debug\net9.0\tarea10.deps.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\bin\Debug\net9.0\tarea10.runtimeconfig.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\bin\Debug\net9.0\tarea10.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\bin\Debug\net9.0\tarea10.pdb
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\obj\Debug\net9.0\tarea10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\obj\Debug\net9.0\tarea10.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\obj\Debug\net9.0\tarea10.AssemblyInfo.cs
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\obj\Debug\net9.0\tarea10.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\obj\Debug\net9.0\tarea10.sourcelink.json
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\obj\Debug\net9.0\tarea10.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\obj\Debug\net9.0\refint\tarea10.dll
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\obj\Debug\net9.0\tarea10.pdb
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\obj\Debug\net9.0\tarea10.genruntimeconfig.cache
+C:\Users\alejo\Desktop\work sin BACKUP\github\3SEMESTRE\ALE\tarea10\obj\Debug\net9.0\ref\tarea10.dll
