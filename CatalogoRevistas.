@@ -1,0 +1,101 @@
+using System;
+using System.Collections.Generic;
+
+class ProgramaCatalogoRevistas
+{
+    // Lista que almacena los títulos de las revistas
+    static List<string> catalogo = new List<string>()
+    {
+        "National Geographic",
+        "Science Today",
+        "Time",
+        "Forbes",
+        "Popular Mechanics",
+        "Nature",
+        "Scientific American",
+        "The Economist",
+        "History Now",
+        "Reader's Digest"
+    };
+
+    static void Main()
+    {
+        bool continuar = true;
+
+        while (continuar)
+        {
+            Console.Clear();
+            Console.WriteLine("==== Catálogo de Revistas ====");
+            Console.WriteLine("1. Buscar título");
+            Console.WriteLine("2. Ver todo el catálogo");
+            Console.WriteLine("3. Salir");
+            Console.Write("Seleccione una opción: ");
+            string opcion = Console.ReadLine();
+
+            switch (opcion)
+            {
+                case "1":
+                    BuscarRevista();
+                    break;
+                case "2":
+                    MostrarCatalogo();
+                    break;
+                case "3":
+                    continuar = false;
+                    break;
+                default:
+                    Console.WriteLine("Opción inválida. Presione una tecla para continuar...");
+                    Console.ReadKey();
+                    break;
+            }
+        }
+    }
+
+    // Método que muestra todo el catálogo
+    static void MostrarCatalogo()
+    {
+        Console.WriteLine("\n--- Catálogo de Revistas ---");
+        foreach (var revista in catalogo)
+        {
+            Console.WriteLine("- " + revista);
+        }
+        Console.WriteLine("\nPresione una tecla para continuar...");
+        Console.ReadKey();
+    }
+
+    // Método que permite al usuario buscar un título
+    static void BuscarRevista()
+    {
+        Console.Write("\nIngrese el título de la revista que desea buscar: ");
+        string tituloBuscado = Console.ReadLine();
+
+        // Llamada al método de búsqueda (iterativa)
+        bool encontrado = BuscarIterativo(catalogo, tituloBuscado);
+
+        if (encontrado)
+        {
+            Console.WriteLine("\nResultado: Encontrado");
+        }
+        else
+        {
+            Console.WriteLine("\nResultado: No encontrado");
+        }
+
+        Console.WriteLine("Presione una tecla para continuar...");
+        Console.ReadKey();
+    }
+
+    // Búsqueda iterativa en la lista
+    static bool BuscarIterativo(List<string> lista, string titulo)
+    {
+        foreach (string item in lista)
+        {
+            if (item.Equals(titulo, StringComparison.OrdinalIgnoreCase))
+            {
+                return true; // Título encontrado
+            }
+        }
+
+        return false; // Título no encontrado
+    }
+}
