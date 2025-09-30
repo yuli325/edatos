@@ -1,0 +1,29 @@
+# EJEMPLO 1: RED SOCIAL
+# Formato de archivo para definir grafos
+# 
+# Comandos:
+#   GRAFO|Nombre|DIRIGIDO o NO_DIRIGIDO
+#   NODO|ID|Etiqueta
+#   ARISTA|IDOrigen|IDDestino|Peso
+
+# Definir el tipo de grafo
+GRAFO|Red Social|NO_DIRIGIDO
+
+# Definir los nodos (personas)
+NODO|1|Ana
+NODO|2|Bob
+NODO|3|Carlos
+NODO|4|Diana
+NODO|5|Eva
+NODO|6|Frank
+
+# Definir las aristas (amistades con nivel de interacción)
+ARISTA|1|2|5
+ARISTA|1|3|3
+ARISTA|2|3|4
+ARISTA|2|4|2
+ARISTA|3|4|6
+ARISTA|3|5|1
+ARISTA|4|5|3
+ARISTA|4|6|4
+ARISTA|5|6|2
